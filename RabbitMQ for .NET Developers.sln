@@ -8,8 +8,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pt1", "pt1", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample1", "Module2.Sample1", "{34E670B1-6E86-439E-A01D-C043F8D0D9F3}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\blablaalb\Desktop\rabbit\pt1.module2.sample1.sh = C:\Users\blablaalb\Desktop\rabbit\pt1.module2.sample1.sh
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample2", "Module2.Sample2", "{416DCC65-0A42-4BC7-862A-1D97F09CD196}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample2\pt1.module2.sample2.sh = pt1\Module2.Sample2\pt1.module2.sample2.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "pt1\Module2.Sample1\Client\Client.csproj", "{8E1FF29D-BBED-B640-DE36-11122EDAA22A}"
 EndProject
@@ -22,6 +28,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server2", "pt1\Module2.Sample2\Server2\Server2.csproj", "{F27398BB-0F1F-4B93-BF77-B832F6CD9429}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample3", "Module2.Sample3", "{7DDB64EB-6257-4758-9416-FF98EC4F77A0}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample3\pt1.module2.sample3.sh = pt1\Module2.Sample3\pt1.module2.sample3.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "pt1\Module2.Sample3\Client\Client.csproj", "{1E7DEC95-0B83-418E-85FE-0252FD449CD0}"
 EndProject
@@ -30,12 +39,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server2", "pt1\Module2.Sample3\Server2\Server2.csproj", "{6C3E9AEF-20ED-68DA-207E-6631FE44A3ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample4", "Module2.Sample4", "{8336F13F-F5BB-4077-A1A8-51E2FB8A8C0B}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample4\pt1.module2.sample4.sh = pt1\Module2.Sample4\pt1.module2.sample4.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "pt1\Module2.Sample4\Client\Client.csproj", "{1C1503CC-8203-42D3-8DCA-710F29565AF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "pt1\Module2.Sample4\Server\Server.csproj", "{24C0BEB3-A11F-4D6A-B49D-469B0EF42262}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample5", "Module2.Sample5", "{FB2C2A56-D4A5-43C4-BFD8-2BDE5BFA7E05}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample5\pt1.module2.sample5.sh = pt1\Module2.Sample5\pt1.module2.sample5.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "pt1\Module2.Sample5\Client\Client.csproj", "{DA0AC902-79B8-4F3A-95FB-EAE538E777BB}"
 EndProject
@@ -44,6 +59,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server2", "pt1\Module2.Sample5\Server2\Server2.csproj", "{9144A02F-6D1B-93D5-5574-E812BD38F329}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample6", "Module2.Sample6", "{C0F6F6D7-78A4-488D-8D55-B96532339D57}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample6\pt1.module2.sample6.sh = pt1\Module2.Sample6\pt1.module2.sample6.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinClient", "pt1\Module2.Sample6\WinClient\WinClient.csproj", "{0989729B-32FB-40F3-BA9F-3B70460158B7}"
 EndProject
@@ -54,6 +72,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server3", "pt1\Module2.Sample6\Server3\Server3.csproj", "{48CCE1B5-B0B0-C95D-09C0-BC2549BCEAC4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample7", "Module2.Sample7", "{2FF20B2C-E8F8-4DE9-A151-64FEFA1B58AF}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample7\pt1.module2.sample7.sh = pt1\Module2.Sample7\pt1.module2.sample7.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinClient", "pt1\Module2.Sample7\WinClient\WinClient.csproj", "{C844DDC1-63B4-4F84-83F9-CE149E47F959}"
 EndProject
@@ -66,6 +87,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server4", "pt1\Module2.Sample7\Server4\Server4.csproj", "{A522D4D8-EE90-3A04-EE30-AB47D657A0EE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module2.Sample8", "Module2.Sample8", "{88F88565-C39B-4362-81E1-497FF585AF7D}"
+	ProjectSection(SolutionItems) = preProject
+		pt1\Module2.Sample8\pt1.module2.sample8.sh = pt1\Module2.Sample8\pt1.module2.sample8.sh
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "pt1\Module2.Sample8\Client\Client.csproj", "{867F8995-B9E0-4371-A0C7-9230D181D5E1}"
 EndProject
